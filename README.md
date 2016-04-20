@@ -4,13 +4,21 @@ News analytics refers to making analysis of the daily news to categorize into so
 Key Milestones in the project
 
 Step 1: Research on finding out news patterns
+
 Step 1: Develop WebCrawler 
+
 Step 2: Filtering data generated 
+
 Step 3:  Separating data into words, text and url
+
 Step 4: Saving in a text file with filtered – relevant, distinct, stopwords removed
+
 Step 5: Displaying news to the user allowing him to select his interested news
+
 Step 6: Finding out the word generated from the interested news and showing the user news urls with the word contained in it
+
 Step 7: Developing Test Cases
+
 
 How was data filtered:
 
