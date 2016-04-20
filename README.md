@@ -17,6 +17,7 @@ How was data filtered:
 Filter out URL which contain 2016 
 Split the URL based based on word, text and URL where
 for eg: Consider the following URL http://www.slate.com/articles/health_and_science/future_tense/2016/04/biomedicine_facing_a_worse_replication_crisis_than_the_one_plaguing_psychology.html
+
 Word: Biomedicine, facing, worse, replication, plaguing, psychology
 Text: biomedicine_facing_a_worse_replication_crisis_than_the_one_plaguing_psychology
 URL: http://www.slate.com
