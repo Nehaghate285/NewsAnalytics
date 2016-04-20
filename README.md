@@ -19,14 +19,17 @@ Split the URL based based on word, text and URL where
 for eg: Consider the following URL http://www.slate.com/articles/health_and_science/future_tense/2016/04/biomedicine_facing_a_worse_replication_crisis_than_the_one_plaguing_psychology.html
 
 Word: Biomedicine, facing, worse, replication, plaguing, psychology
+
 Text: biomedicine_facing_a_worse_replication_crisis_than_the_one_plaguing_psychology
+
 URL: http://www.slate.com
 
 
 Scala Tests
 
 Total No of Scala Tests written: 11
-Scala tests written on: Webcrawler, FilterNewsURL and LinkParser
+Scala tests written on: Webcrawler, FilterNewsURL and LinkCleaner
+
 
 
 Note:
