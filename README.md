@@ -36,6 +36,7 @@ URL: http://www.slate.com/articles/health_and_science/future_tense/2016/04/biome
 Scala Tests
 
 Total No of Scala Tests written: 11
+
 Scala tests written on: Webcrawler, FilterNewsURL and LinkCleaner
 
 
@@ -43,8 +44,10 @@ Scala tests written on: Webcrawler, FilterNewsURL and LinkCleaner
 Note:
 
 In order to run this project you need:
+
 Spark Installed
 IntelliJ or Eclipse or any other IDE
+Need to run the project on sbt or the IDE console
 
 
 
