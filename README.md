@@ -22,7 +22,7 @@ Word: Biomedicine, facing, worse, replication, plaguing, psychology
 
 Text: biomedicine_facing_a_worse_replication_crisis_than_the_one_plaguing_psychology
 
-URL: http://www.slate.com
+URL: http://www.slate.com/articles/health_and_science/future_tense/2016/04/biomedicine_facing_a_worse_replication_crisis_than_the_one_plaguing_psychology.html
 
 
 Scala Tests
