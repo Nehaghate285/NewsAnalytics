@@ -49,6 +49,12 @@ Spark Installed
 IntelliJ or Eclipse or any other IDE
 Need to run the project on sbt or the IDE console
 
+References:
+Build on a simple crawler made by https://github.com/rynmrtn/scrawler/tree/master/src/main/scala
+
+Credits:
+Professor Robin Hillyard
+TA: :Laksh Lumba
 
 
 
